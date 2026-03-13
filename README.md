@@ -24,11 +24,12 @@
 
 ---
 
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garabhayeshwari-VK&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garabhayeshwari-VK&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gara&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gara&theme=dark" />
 </p>
 
 
